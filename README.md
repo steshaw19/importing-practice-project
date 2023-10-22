@@ -4,3 +4,5 @@ This is an AIcore module where I practised importing functions, modules, package
 - importing functions and variables between files
 - assigning aliases to organise and simplify commands
 - debugging and editing code
+
+  *I do need to remember to Titlecase the name of the repository e.g.* ***Importing-Practice-Project*** 
